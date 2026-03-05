@@ -23,11 +23,10 @@ Identificar **possíveis causas de cancelamento de clientes (churn)** e gerar in
 ##  Estrutura do Projeto
 
 ```
-churn-analysis/
-│
-├── cancelamentos.csv
-├── main.py
-└── README.md
+Analise_de_dados/
+    cancelamentos.csv
+    main.py
+    README.md
 ```
 
 ---
